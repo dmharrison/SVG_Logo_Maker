@@ -10,14 +10,6 @@ Refer to the [Video Submission Guide](https://coding-boot-camp.github.io/full-st
 
 > **Note**: There is no starter code for this assignment.
 
-### User Story
-
-```md
-AS a freelance web developer
-I WANT to generate a simple logo for my projects
-SO THAT I don't have to pay a graphic designer
-```
-
 ## Acceptance Criteria
 
 ```md
@@ -37,4 +29,36 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-## Live Site
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#Questions)
+- [License](#license)
+
+## Installation
+
+npm init -y
+npm install inquirer@8.2.4
+npm install jest
+
+## Tests
+
+npm test
+
+## Questions
+
+If you have any questions contact me at
+https://github.com/dmharrison or
+dmharrison2014@gmail.com
+
+## License
+
+This project is licensed under the MIT license.  
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Live Video Link
+
+https://drive.google.com/file/d/1gHMjjsWumfXUOuzZ_Fb17LdXHhlPs-2J/view
